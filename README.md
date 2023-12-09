@@ -98,7 +98,7 @@ Tools: `VS code` `Git/GitHub` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafahuqe&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=rafahuqe&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafahuqe&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" style="width: 38%; height: 100%;" />
 
 </div>
 

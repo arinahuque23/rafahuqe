@@ -2,7 +2,7 @@
 
 <img  style="width: 100%; height: auto;" src="rafahuqe.jpg" >
 <p>
-👑 I am a passionate Full Stack Web Developer.<br> 
+👑 I am a Front End Developer.<br> 
 🖊️ Love to write code and Photo/Vidoe Editing <br> 
 🎤  Like to share my knowledge </p>
 
@@ -42,7 +42,7 @@ I find great enthusiasm in tackling the challenges and embracing the opportuniti
   <br>
     ⏯ Live Site Link : https://the-events-managements.web.app
 
-### 😎 Skillset :
+### 😎 Skills :
 
 Languages: `HTML` `CSS` `JavaScript` `ES6` `Python` `C`
 
@@ -59,9 +59,7 @@ Comfortable: `CSS Media Query` `Both Flexbox and Grid System`
 Tools: `VS code` `Git/GitHub` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello`
 
 <hr>
-<h1 >⚙ Tech LANGUAGES</h1>
 
-<hr>
 
 <div>
  

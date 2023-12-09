@@ -14,7 +14,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 * ✅ Blood Donation Website <br>
 -- 
 Empower life-saving connections with our blood donation website! Seamlessly bridging donors and recipients, we've created a user-friendly platform for a vital cause. Join us in the mission to make giving blood a simple, impactful experience. Explore the link to be a part of something life-changing. 💉🌐 #DonateLife #BloodHeroes #WebForGood <br>
-✅ Live Site : <a href="https://last-projects-b8.web.app" target="blank" rel="noreferrer"> </a>
+<p align="left"> ✅ Live Site : <a href="https://last-projects-b8.web.app" target="_blank" rel="noreferrer"> </a> </p>
 
 
 ## 👨‍💻 Skills & Experiance: 

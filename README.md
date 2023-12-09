@@ -11,10 +11,14 @@
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include HTML5,CSS3 and JavaScript as well as PHP. 
 
 ## My Projects : 
-* ✅ Blood Donation Website <br>
+* [01]  ✅ Blood Donation Website <br>
 -- 
 Empower life-saving connections with our blood donation website! Seamlessly bridging donors and recipients, we've created a user-friendly platform for a vital cause. Join us in the mission to make giving blood a simple, impactful experience. Explore the link to be a part of something life-changing. 💉🌐 #DonateLife #BloodHeroes #WebForGood <br>
  ✅ Live Site : https://last-projects-b8.web.app
+
+* [02] ✅ A Brands Clothing Website <br>
+Curate your style with our brand clothing website! From Zara to Nike and Gucci, discover the latest fashion trends in one place. Elevate your wardrobe effortlessly with a seamless shopping experience. Explore the link and redefine your fashion statement. 👗👟🛍️ #FashionForward #OnlineShopping #StyleHub <br>
+✅ Live Site : https://all-brands-clients.web.app
 
 
 ## 👨‍💻 Skills & Experiance: 

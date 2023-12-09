@@ -1,7 +1,7 @@
 ## Hi, I'm Arina Huqe Rafa 👋
 
 <img  style="width: 100%; height: auto;" src="rafahuqe.jpg" >
-<div align="center">
+<div >
 
   <p>
 👑 I am a Front End Developer.<br> 

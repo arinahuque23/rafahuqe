@@ -30,8 +30,8 @@ I find great enthusiasm in tackling the challenges and embracing the opportuniti
 - [03] ✅ A Event Management Projects : <br>
   Welcome to Events Crafter - Crafting Unforgettable Moments
 
-At Events Crafter, we're not just event planners; we're memory architects. Whether it's a dazzling corporate affair, a dreamy wedding, a milestone birthday, or any special occasion, Events Crafter is your partner in transforming visions into extraordinary experiences. <br>
-⏯ Live Site Link : https://the-events-managements.web.app
+    At Events Crafter, we're not just event planners; we're memory architects. Whether it's a dazzling corporate affair, a dreamy wedding, a milestone birthday, or any special occasion,     Events Crafter is your partner in transforming visions into extraordinary experiences. <br>
+    ⏯ Live Site Link : https://the-events-managements.web.app
 
 ### 😎 Skillset :
 

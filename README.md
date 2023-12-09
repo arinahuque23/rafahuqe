@@ -22,7 +22,8 @@ I am deeply passionate about full-stack web development, with a particular focus
 
 I find great enthusiasm in tackling the challenges and embracing the opportunities that arise in the realm of software engineering and web development. Whether I'm engaged in unraveling intricate coding problems during my full-time endeavors or working on innovative solutions, my dedication lies in delivering top-notch results. I am devoted to continuous improvement, ensuring that my skills remain cutting-edge in this dynamic field.
 
-## My Projects :
+
+<h1 > 🎦 My Projects</h1>
 
 - [01] ✅ Blood Donation Website <br>
 
@@ -48,7 +49,7 @@ I find great enthusiasm in tackling the challenges and embracing the opportuniti
   <br>
     ⏯ Live Site Link : https://the-events-managements.web.app
 
-### 😎 Skills :
+<h1 > ❄ My Skills</h1>
 
 Languages: `HTML` `CSS` `JavaScript` `ES6` `Python` `C`
 

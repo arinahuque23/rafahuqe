@@ -56,7 +56,7 @@ Databases: `MongoDB` `Firebase`
 
 Comfortable: `CSS Media Query` `Both Flexbox and Grid System`
 
-Tools: `VS code` `Git/GitHub` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello`
+Tools: `VS code` `Git/GitHub` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` 
 
 <hr>
 

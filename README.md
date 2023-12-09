@@ -21,16 +21,25 @@ I find great enthusiasm in tackling the challenges and embracing the opportuniti
 - [01] ✅ Blood Donation Website <br>
 
   Empower life-saving connections with our blood donation website! Seamlessly bridging donors and recipients, we've created a user-friendly platform for a vital cause. Join us in the mission to make giving blood a simple, impactful experience. Explore the link to be a part of something life-changing. 💉🌐 #DonateLife #BloodHeroes #WebForGood <br>
+  <b> TECHNOLOGY </b>  :
+  `HTML` `Tailwindcss`  `React JS` `Express Js` `MongoDB` `Firebase` 
+  <br>
   ⏯ Live Site : https://last-projects-b8.web.app
 
 - [02] ✅ A Brands Clothing Website <br>
   Curate your style with our brand clothing website! From Zara to Nike and Gucci, discover the latest fashion trends in one place. Elevate your wardrobe effortlessly with a seamless shopping experience. Explore the link and redefine your fashion statement. 👗👟🛍️ #FashionForward #OnlineShopping #StyleHub <br>
+    <b> TECHNOLOGY </b>  :
+  `HTML` `Tailwindcss`  `React JS` `Express Js` `MongoDB` `Firebase` 
+  <br>
   ⏯ Live Site : https://all-brands-clients.web.app
 
 - [03] ✅ A Event Management Projects : <br>
   Welcome to Events Crafter - Crafting Unforgettable Moments
 
     At Events Crafter, we're not just event planners; we're memory architects. Whether it's a dazzling corporate affair, a dreamy wedding, a milestone birthday, or any special occasion,     Events Crafter is your partner in transforming visions into extraordinary experiences. <br>
+      <b> TECHNOLOGY </b>  :
+  `HTML` `Tailwindcss`  `React JS` `Express Js` `MongoDB` `Firebase` 
+  <br>
     ⏯ Live Site Link : https://the-events-managements.web.app
 
 ### 😎 Skillset :

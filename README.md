@@ -5,7 +5,7 @@
 🖊️ Love to write code and Editing <br> 
 🎤 Like to share my knowledge </p> 
 
-![Profile views](https://gpvc.arturio.dev/rafahuqe) 
+![Profile views](https://camo.githubusercontent.com/2af883a9e05b8044c213173183a2abd4c6cd68329f053a6e23223f2ba597a782/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d72636d65686564693135266c6162656c3d50524f46494c452b5649455753) 
 
 ## 🚀 About Me
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include HTML5,CSS3 and JavaScript as well as PHP. 

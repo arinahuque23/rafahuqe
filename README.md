@@ -20,6 +20,12 @@ Empower life-saving connections with our blood donation website! Seamlessly brid
 Curate your style with our brand clothing website! From Zara to Nike and Gucci, discover the latest fashion trends in one place. Elevate your wardrobe effortlessly with a seamless shopping experience. Explore the link and redefine your fashion statement. 👗👟🛍️ #FashionForward #OnlineShopping #StyleHub <br>
 ✅ Live Site : https://all-brands-clients.web.app
 
+* [03] ✅ A Event Management Projects : <br>
+Welcome to Events Crafter - Crafting Unforgettable Moments
+
+At Events Crafter, we're not just event planners; we're memory architects. Whether it's a dazzling corporate affair, a dreamy wedding, a milestone birthday, or any special occasion, Events Crafter is your partner in transforming visions into extraordinary experiences. <br>
+✅ Live Site Link : https://the-events-managements.web.app
+
 
 ## 👨‍💻 Skills & Experiance: 
 

@@ -1,13 +1,16 @@
 ## Hi, I'm Arina Huqe Rafa 👋
 
 <img  style="width: 100%; height: auto;" src="rafahuqe.jpg" >
-<p>
+<div align="center">
+
+  <p>
 👑 I am a Front End Developer.<br> 
 🖊️ Love to write code and Photo/Vidoe Editing <br> 
 🎤  Like to share my knowledge </p>
 
 <div >
   <img src="https://komarev.com/ghpvc/?username=rafahuqe&label=PROFILE+VIEWS" alt="Profile Views">
+</div>
 </div>
 
 ## 🚀 About Me

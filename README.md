@@ -12,7 +12,7 @@
 
 
 <div >
-  <img src="https://komarev.com/ghpvc/?username=rafahuqe&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=rafahuqe&label=PROFILE+VIEWS" alt="Profile Views"> <br>
   Self Learner | Technology Lover
 </div>
 </div>

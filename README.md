@@ -1,5 +1,5 @@
 ## Hi, I'm Arina Huqe Rafa 👋
-<img align="center" width="700" src="https://i.ibb.co/MRYzQ4n/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" >
+<img align="center" width="900" height="100" src="https://i.ibb.co/MRYzQ4n/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" >
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code and Editing <br> 

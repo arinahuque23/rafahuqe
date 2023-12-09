@@ -1,53 +1,109 @@
 ## Hi, I'm Arina Huqe Rafa 👋
-<img align="center" width="900" height="300" src="https://i.ibb.co/MRYzQ4n/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" >
-<p>
-👑 I am Web Developer <br> 
-🖊️ Love to write code and Editing <br> 
-🎤 Like to share my knowledge </p> 
 
-![Profile views](https://camo.githubusercontent.com/2af883a9e05b8044c213173183a2abd4c6cd68329f053a6e23223f2ba597a782/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d72636d65686564693135266c6162656c3d50524f46494c452b5649455753) 
+<img  style="width: 100%; height: auto;" src="rafahuqe.jpg" >
+<p>
+👑 I am a passionate Full Stack Web Developer.<br> 
+🖊️ Love to write code and Photo/Vidoe Editing <br> 
+🎤  Like to share my knowledge </p>
+
+<div >
+  <img src="https://komarev.com/ghpvc/?username=rafahuqe&label=PROFILE+VIEWS" alt="Profile Views">
+</div>
 
 ## 🚀 About Me
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include HTML5,CSS3 and JavaScript as well as PHP. 
 
-## My Projects : 
-* [01]  ✅ Blood Donation Website <br>
--- 
-Empower life-saving connections with our blood donation website! Seamlessly bridging donors and recipients, we've created a user-friendly platform for a vital cause. Join us in the mission to make giving blood a simple, impactful experience. Explore the link to be a part of something life-changing. 💉🌐 #DonateLife #BloodHeroes #WebForGood <br>
- ✅ Live Site : https://last-projects-b8.web.app
+I am deeply passionate about full-stack web development, with a particular focus on leveraging the MERN (MongoDB, Express.js, React, and Node.js) stack. The versatility and power of the MERN stack empower me to craft resilient and responsive web applications. Continuously refining my skills, I stay abreast of the latest trends and technologies in web development, ensuring that I deliver optimal solutions.
 
-* [02] ✅ A Brands Clothing Website <br>
-Curate your style with our brand clothing website! From Zara to Nike and Gucci, discover the latest fashion trends in one place. Elevate your wardrobe effortlessly with a seamless shopping experience. Explore the link and redefine your fashion statement. 👗👟🛍️ #FashionForward #OnlineShopping #StyleHub <br>
-✅ Live Site : https://all-brands-clients.web.app
+I find great enthusiasm in tackling the challenges and embracing the opportunities that arise in the realm of software engineering and web development. Whether I'm engaged in unraveling intricate coding problems during my full-time endeavors or working on innovative solutions, my dedication lies in delivering top-notch results. I am devoted to continuous improvement, ensuring that my skills remain cutting-edge in this dynamic field.
 
-* [03] ✅ A Event Management Projects : <br>
-Welcome to Events Crafter - Crafting Unforgettable Moments
+## My Projects :
+
+- [01] ✅ Blood Donation Website <br>
+
+  Empower life-saving connections with our blood donation website! Seamlessly bridging donors and recipients, we've created a user-friendly platform for a vital cause. Join us in the mission to make giving blood a simple, impactful experience. Explore the link to be a part of something life-changing. 💉🌐 #DonateLife #BloodHeroes #WebForGood <br>
+  ⏯ Live Site : https://last-projects-b8.web.app
+
+- [02] ✅ A Brands Clothing Website <br>
+  Curate your style with our brand clothing website! From Zara to Nike and Gucci, discover the latest fashion trends in one place. Elevate your wardrobe effortlessly with a seamless shopping experience. Explore the link and redefine your fashion statement. 👗👟🛍️ #FashionForward #OnlineShopping #StyleHub <br>
+  ⏯ Live Site : https://all-brands-clients.web.app
+
+- [03] ✅ A Event Management Projects : <br>
+  Welcome to Events Crafter - Crafting Unforgettable Moments
 
 At Events Crafter, we're not just event planners; we're memory architects. Whether it's a dazzling corporate affair, a dreamy wedding, a milestone birthday, or any special occasion, Events Crafter is your partner in transforming visions into extraordinary experiences. <br>
-✅ Live Site Link : https://the-events-managements.web.app
+⏯ Live Site Link : https://the-events-managements.web.app
+
+### 😎 Skillset :
+
+Languages: `HTML` `CSS` `JavaScript` `ES6` `Python` `C`
+
+CSS Frameworks/Libraries: `Bootstrap` `TailwindCSS`
+
+Framworks/Libraries: `React.js` `Express.js`
+
+Components and UIs: `Flowbite` `Daisy Ui`
+
+Databases: `MongoDB` `Firebase`
+
+Comfortable: `CSS Media Query` `Both Flexbox and Grid System`
+
+Tools: `VS code` `Git/GitHub` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello`
+
+<hr>
+<h1 >⚙ Tech LANGUAGES</h1>
+
+<hr>
+
+<div>
+ 
+   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"  title="Bootstrap" alt="Bootstrap"/>&nbsp;
+   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  title="Tailwind" alt="Tailwind CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node" alt="Node" />&nbsp;
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express " alt="Express JS "/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" title="Mongodb" alt="Mongodb"/>&nbsp;
+  <img src="https://img.shields.io/badge/python-FFCA28.svg?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
+<img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
+<img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
+
+  </div>
+<h1 >🧶 EDUCATION</h1>
 
 
-## 👨‍💻 Skills & Experiance: 
+-  Diploma in Engineering, Computer Science & Technology,
+     
+     Infra Polytechnic Institute, Barishal
 
-✅ React <br>
-✅ Bootstraps <br>
-✅ JavaScript <br>
-✅ HTML5 / CSS3 <br>
-✅ Photoshop / Illustrator <br>
+     Passing Year: 2024, Result:  Comming Soon
+### 🔥 My GitHub Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafahuqe&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafahuqe&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rafahuqe&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
+
+</div>
+
+<hr>
 
 ## ☕ Connect with me!
-[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/rafa.huqe.72)   [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/rafahuqe)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/arina-huque-rafa-5122b328a/)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<div id="badges" align="center">
+ 
+  <a href="https://www.linkedin.com/in/arina_huque_rafa" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> <a href="https://www.facebook.com/rafa.huqe.72" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   </a><a href="https://www.instagram.com/rafa.huque" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
+   </a>
+   <br>
+</div>
+<br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-
-
-
-## 📧How To Reach Me : <br>
-✅  ► arinahuqe23@gmail.com
+<div align="center"> Email : arinahuqe23@gmail.com </div>

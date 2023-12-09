@@ -49,7 +49,7 @@ I find great enthusiasm in tackling the challenges and embracing the opportuniti
   <br>
     ⏯ Live Site Link : https://the-events-managements.web.app
 
-<h1 > ❄ My Skills</h1>
+<h1 > 🎓 My Skills</h1>
 
 Languages: `HTML` `CSS` `JavaScript` `ES6` `Python` `C`
 
